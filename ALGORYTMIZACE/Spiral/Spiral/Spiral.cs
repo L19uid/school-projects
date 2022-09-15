@@ -21,9 +21,6 @@ public class Spiral
     private bool[,] field;
     private Vec2 pos = new Vec2(0,0);
 
-    private int limit;
-    private int step = 1;
-
     
     public Spiral(int delta, int x)
     {
@@ -33,23 +30,12 @@ public class Spiral
         this.x -= 1; //Tento int budu používat jako limit a proto musím odečíst 1. Aby nebyl out of range.
     }
 
-    private void FillField() // Vyplníme pole false.
-    {
-        for (int i = 0; i < field.GetLength(0); i++)
-        {
-            for (int j = 0; j < field.GetLength(1); j++)
-            {
-                field[i, j] = true;
-            }
-        }
-    }
-
     public void FindEnd()
     {
         if (x <= delta) // Jestli se x dostalo pod deltu tak se ukonší rekurze.
         {
             DrawSpiral();
-            Console.WriteLine($"Poslední pozice v spirále jsou {pos.x} a {pos.y}");
+            Console.WriteLine($"Pro x {field.GetLength(0)} a deltu {delta} je poslední pozice v spirále jsou {pos.x} a {pos.y}");
         }
         else
         {
