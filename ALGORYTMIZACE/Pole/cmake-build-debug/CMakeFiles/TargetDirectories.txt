@@ -1,0 +1,3 @@
+C:/Users/42077/OneDrive/Plocha/school-projects/Pole/cmake-build-debug/CMakeFiles/Pole.dir
+C:/Users/42077/OneDrive/Plocha/school-projects/Pole/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/42077/OneDrive/Plocha/school-projects/Pole/cmake-build-debug/CMakeFiles/rebuild_cache.dir
