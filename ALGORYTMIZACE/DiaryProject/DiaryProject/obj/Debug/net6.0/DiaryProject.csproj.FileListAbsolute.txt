@@ -1,0 +1,15 @@
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\DiaryProject.exe
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\DiaryProject.deps.json
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\DiaryProject.runtimeconfig.json
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\DiaryProject.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\ref\DiaryProject.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\bin\Debug\net6.0\DiaryProject.pdb
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.csproj.AssemblyReference.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.AssemblyInfoInputs.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.AssemblyInfo.cs
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.csproj.CoreCompileInputs.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\ref\DiaryProject.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.pdb
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\DiaryProject\DiaryProject\obj\Debug\net6.0\DiaryProject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\Field.exe
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\Field.deps.json
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\Field.runtimeconfig.json
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\Field.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\ref\Field.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\bin\Debug\net6.0\Field.pdb
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.csproj.AssemblyReference.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.AssemblyInfoInputs.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.AssemblyInfo.cs
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.csproj.CoreCompileInputs.cache
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\ref\Field.dll
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.pdb
+C:\Users\42077\OneDrive\Plocha\school-projects\ALGORYTMIZACE\Field\Field\Field\obj\Debug\net6.0\Field.genruntimeconfig.cache
