@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T11:17:06.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="myR5Z1B6f_FWc5LSQ5ml" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T11:51:39.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="3d3-jk-8O-bMmR6s3ZKm" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1331" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -228,6 +228,55 @@
             <mxPoint x="673" y="772" as="sourcePoint" />
             <mxPoint x="380" y="660" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-64" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="1410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-66" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v1m7dFRjp8o4coxR1YKx-64" target="v1m7dFRjp8o4coxR1YKx-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1730" as="sourcePoint" />
+            <mxPoint x="280" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-67" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1630" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-71" value="Dostat data od uživatele." style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;html=0;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1642" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-74" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="1720" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-75" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-76" value="Vygeneruj registrační stránku." style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;html=0;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="1562" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-77" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v1m7dFRjp8o4coxR1YKx-75" target="v1m7dFRjp8o4coxR1YKx-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="1520" as="sourcePoint" />
+            <mxPoint x="245" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-78" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v1m7dFRjp8o4coxR1YKx-67" target="v1m7dFRjp8o4coxR1YKx-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="1610" as="sourcePoint" />
+            <mxPoint x="245" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-79" value="Invalidní input." style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;html=0;fontColor=#E4FDE1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1750" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="v1m7dFRjp8o4coxR1YKx-81" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#028090;fontSize=1;fontColor=#E4FDE1;fillColor=#F45B69;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v1m7dFRjp8o4coxR1YKx-74" target="v1m7dFRjp8o4coxR1YKx-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="1690" as="sourcePoint" />
+            <mxPoint x="590" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1770" />
+              <mxPoint x="490" y="1655" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
